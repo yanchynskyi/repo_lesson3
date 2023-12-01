@@ -9,3 +9,5 @@ let orResult = isTrue || isFalse;
 
 // Logical NOT
 let notResult = !isTrue;
+
+//Bigint
